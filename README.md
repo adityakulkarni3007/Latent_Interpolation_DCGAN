@@ -1,2 +1,4 @@
 # Latent_Interpolation_DCGAN
-The project aims at traversing through the latent space of the Generator to produce images that morph into eachother. The network used for this project is a Deep Convolutional GAN. The celebrity faces data-set is used as training data and the fake images produced are visualized.
+Here are some of the results I was able to visualize
+![Latent_Interpolation](https://user-images.githubusercontent.com/69897849/120919698-96319700-c6d8-11eb-969b-33e3724b0bc9.PNG)
+![Latent_Interpolation_2](https://user-images.githubusercontent.com/69897849/120919701-97fb5a80-c6d8-11eb-8041-d7d865f524dc.PNG)
