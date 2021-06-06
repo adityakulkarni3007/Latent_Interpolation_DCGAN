@@ -3,3 +3,6 @@
 
 ![Latent_Interpolation](https://user-images.githubusercontent.com/69897849/120919698-96319700-c6d8-11eb-969b-33e3724b0bc9.PNG)
 ![Latent_Interpolation_2](https://user-images.githubusercontent.com/69897849/120919701-97fb5a80-c6d8-11eb-8041-d7d865f524dc.PNG)
+
+### Samples from the Generator:
+![DCGAN](https://user-images.githubusercontent.com/69897849/120920421-52409100-c6dc-11eb-88c0-36568b7fffbe.PNG)
