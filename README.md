@@ -13,7 +13,7 @@
 
 https://user-images.githubusercontent.com/69897849/147401521-97bc7dcf-63e5-4a53-b691-dcd6d55b600e.mp4
 
-####Turning my GAN doppelganger into Brad Pitt
+#### Turning my GAN doppelganger into Brad Pitt
 
 
 https://user-images.githubusercontent.com/69897849/147401571-2a99bc21-43ae-49b0-bed9-f0f95295b67b.mp4
