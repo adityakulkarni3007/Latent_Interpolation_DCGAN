@@ -7,7 +7,7 @@
 ### Samples from the Generator:
 ![DCGAN](https://user-images.githubusercontent.com/69897849/120920421-52409100-c6dc-11eb-88c0-36568b7fffbe.PNG)
 
-### Using a pretrained StlyeGAN2 generator for Latent Interpolation to generate high resolution interpolation:
+### Using a pretrained StyleGAN2 generator for Latent Interpolation to generate high resolution interpolation:
 ![interpolation_1](https://user-images.githubusercontent.com/69897849/147401499-c896a29d-9283-45fb-8024-cead01a05e84.png)
 
 
